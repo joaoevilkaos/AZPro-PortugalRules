@@ -1,2 +1,2 @@
-# AZPro-PortugalRules
-TVLusoBrazileira
+# AZPro*PortugalRules
+ TvLuso/Brazil/World
